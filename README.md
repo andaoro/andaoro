@@ -1,5 +1,5 @@
 <div align="left">
- <img width="210" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=bzteb50y48tp8vzlnrezzj8so&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" style="margin-right: 100px;"/>
+ <img width="210" align="left" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=bzteb50y48tp8vzlnrezzj8so&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=bzteb50y48tp8vzlnrezzj8so&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=537546&bar_color_cover=false)" style="margin-right: 100px;"/>
   
 ``` typescript
   class Presentation {
